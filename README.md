@@ -7,7 +7,7 @@ This data-set is provided by Johns Hopkins University and you can found here: ht
 
 ## How to run this notebook?
 
-First, you will need to have jupyter notebooks installed on your local machine, the easiest way to install is using `anaconda`.
+First, you will need to have jupyter notebooks installed on your local machine, the easiest way to install it is using `anaconda`.
 
 Now that you already have jupyter notebooks instaled on your machine, open a terminal and move to the local folder
 
