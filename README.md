@@ -1,4 +1,4 @@
-# benfordLaw_covid
+# benfordLaw on JHU CSSE COVID-19 Data
 
 ## Data-set
 
